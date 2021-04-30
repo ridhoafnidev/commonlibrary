@@ -14,7 +14,7 @@ import com.ridhoafni.commons.others.UtilsSha256
 import java.text.SimpleDateFormat
 import java.util.*
 
-object Utils {
+class Utils {
 
     fun getCurrentDate(dtFormat: String): String {
 
