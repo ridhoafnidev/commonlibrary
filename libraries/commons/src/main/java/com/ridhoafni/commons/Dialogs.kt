@@ -3,8 +3,8 @@ package com.ridhoafni.commons
 import android.content.Context
 import com.ridhoafni.commons.others.GeneralCallBack
 
-class Dialogs {
-    fun showDialogCase(
+open class Dialogs {
+    open fun showDialogCase(
         mContext: Context?,
         title: String?,
         description: String?,
