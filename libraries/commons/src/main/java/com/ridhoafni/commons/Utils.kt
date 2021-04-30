@@ -13,7 +13,7 @@ import com.bumptech.glide.request.RequestOptions
 import java.text.SimpleDateFormat
 import java.util.*
 
-class Utils {
+public class Utils {
 
     fun getCurrentDate(dtFormat: String): String {
 
