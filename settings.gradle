@@ -1,3 +1,5 @@
-include ':commonlibrary'
+include ':libraries:commons'
+include ':libraries:extentions'
+include ':libraries:base'
 include ':app'
 rootProject.name = "CommonUtilities"
