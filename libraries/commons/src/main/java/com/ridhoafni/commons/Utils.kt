@@ -10,10 +10,11 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.load.resource.bitmap.CenterCrop
 import com.bumptech.glide.load.resource.bitmap.RoundedCorners
 import com.bumptech.glide.request.RequestOptions
+import com.ridhoafni.commons.others.UtilsSha256
 import java.text.SimpleDateFormat
 import java.util.*
 
-public class Utils {
+object Utils {
 
     fun getCurrentDate(dtFormat: String): String {
 

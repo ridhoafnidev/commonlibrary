@@ -1,4 +1,4 @@
-package com.ridhoafni.commons
+package com.ridhoafni.commons.others
 
 interface GeneralCallBack {
     fun onSuccess(value: Any)

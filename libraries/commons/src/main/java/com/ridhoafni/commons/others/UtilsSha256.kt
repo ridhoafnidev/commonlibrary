@@ -1,4 +1,4 @@
-package com.ridhoafni.commons
+package com.ridhoafni.commons.others
 
 import okhttp3.internal.and
 import java.security.MessageDigest
